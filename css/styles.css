@@ -1,0 +1,14 @@
+h1{
+  color: rgb(74, 74, 235); 
+}
+body{
+  text-align: center; 
+}
+#footer{
+  text-align: left;
+  bottom: 0%;
+  position: fixed;
+}
+ul{
+  list-style-type: none;
+}
